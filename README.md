@@ -13,8 +13,8 @@
 ## Overview
 
 ### Screenshots
-![](./Calculator-lightmode.png)
-![](./Calculator-darkmode.png)
+![Light Mode](./Calculator-lightmode.png)
+![Dark mode](./Calculator-darkmode.png)
 
 ### Links
 
